@@ -36,9 +36,13 @@ body {
 }
 
 .img-cards {
-    height: 80px;
+    height: 100px;
 }
 
 .separador {
     height: 30px;
+}
+
+.nav-link:hover {
+    color: var(--Color-Primario) !important;
 }
